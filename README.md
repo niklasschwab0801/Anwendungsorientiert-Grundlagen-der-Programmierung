@@ -6,7 +6,7 @@ Mittels "Blended-Learning" werden die Inhalte der jewiligen Themenbereiche anhan
 
 # Programmieren-mit-R-für-Einsteiger
 
-In den jewiligen Wochen werden die Themen vorgestellt und man kann zusätzlich kleine Zwischenaufgaben zur Übung bearbeiten.
+In den jeweiligen Wochen werden die Themen vorgestellt und man kann zusätzlich kleine Zwischenaufgaben zur Übung bearbeiten.
 Die unten aufgelisteten Links verweisen auf die benotete Übung, die für unser Modul relevant ist und dessen Lösungen in den jeweiligen Ordnern enthalten sind.
 !Anmeldung erforderlich!
 
