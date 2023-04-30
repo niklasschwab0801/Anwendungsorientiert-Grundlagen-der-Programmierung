@@ -1,6 +1,6 @@
-# Anwendungsorientiert-Grundlagen-der-Programmierung
+# Anwendungsorientierte-Grundlagen-der-Programmierung
 
-Der Kurs "Anwendungsorientierte Grundlagen der Programmierung",der OTH-AW, vermittelt Basiskenntnisse im algorithmischen Denken aka. Programmieren.
+Der Kurs "Anwendungsorientierte Grundlagen der Programmierung", der OTH-AW, vermittelt Basiskenntnisse im algorithmischen Denken aka. Programmieren.
 Ziel hierbei ist es nicht "Hard-Core-Software-Engineer" zu werden, sondern das Verständnis von grundlegenden Konzepten der Programmiersprachen zu erlangen.
 Mittels "Blended-Learning" werden die Inhalte der jewiligen Themenbereiche anhand öffentlicher Kurse von openHPI und openSAP vermittelt.
 
