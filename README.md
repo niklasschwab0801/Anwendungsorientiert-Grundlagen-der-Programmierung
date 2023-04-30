@@ -33,7 +33,7 @@ Um die einzelnen ZIP-Dateien zu öffnen und einzusehen, ist es notwendig zuvor R
 Installation: 
 https://bookdown.org/brry/course/installieren.html
 
-Videomaterial für genauere Informationen bezüglich der Einrichtung auf openHPI(Anmeldung erforderlich): 
+Videomaterial für genauere Informationen bezüglich der Einrichtung auf openHPI (Anmeldung erforderlich): 
 https://open.hpi.de/courses/programmieren-r2022/items/6I7Op2x3bqfzcOLsAeWnZN
 
 Videomaterial auf Youtube (keine Anmeldung erforderlich): 
