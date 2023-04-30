@@ -28,7 +28,7 @@ Ausblick: https://open.hpi.de/courses/programmieren-r2022/items/6gSA8AyC1QWxj3BK
 
 # Installationsanleitung
 
-Um die einzelnen ZIP-Dateien zu öffnen und einzusehen, ist es notwendig zuvor R und RStudio installiert zu haben.
+Um die einzelnen ZIP-Dateien öffnen und einsehen zu können, ist es notwendig zuvor R und RStudio installiert zu haben.
 
 Installation: 
 https://bookdown.org/brry/course/installieren.html
